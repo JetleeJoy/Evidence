@@ -1,5 +1,5 @@
 # Evidence
-Providing evidence for ML prediction of survival of heart patients.
+Providing evidence for optimal features that can be employed in ML prediction of survival of heart patients.
 
 # why this project ?
 
